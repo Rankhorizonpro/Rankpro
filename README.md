@@ -1,2 +1,2 @@
 # Rankpro
-Good
+pro
